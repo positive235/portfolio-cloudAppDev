@@ -1,5 +1,5 @@
-# CS493 Portfolio Assignment - Final Project
+# Portfolio - Cloud Application Development
 
-- Author: Haeji Park
+- Author: H.J.Park (https://github.com/positive235)
 - email: parkhaej@oregonstate.edu
 - Date: Jun/7/2023
