@@ -1,0 +1,10 @@
+python-dotenv==1.0.0
+authlib>=1.0
+requests>=2.27.1
+Flask==2.3.2
+google-cloud-datastore==2.15.0
+python-jose
+flask-cors
+six
+python-dotenv
+protobuf==3.20.*
